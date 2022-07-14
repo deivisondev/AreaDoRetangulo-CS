@@ -1,0 +1,15 @@
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\bin\Debug\net6.0\RectangleArea.exe
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\bin\Debug\net6.0\RectangleArea.deps.json
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\bin\Debug\net6.0\RectangleArea.runtimeconfig.json
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\bin\Debug\net6.0\RectangleArea.dll
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\bin\Debug\net6.0\RectangleArea.pdb
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\net6.0\RectangleArea.csproj.AssemblyReference.cache
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\net6.0\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\net6.0\RectangleArea.AssemblyInfoInputs.cache
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\net6.0\RectangleArea.AssemblyInfo.cs
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\net6.0\RectangleArea.csproj.CoreCompileInputs.cache
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\net6.0\RectangleArea.dll
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\net6.0\refint\RectangleArea.dll
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\net6.0\RectangleArea.pdb
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\net6.0\RectangleArea.genruntimeconfig.cache
+D:\Documentos\Udemy\C# POO\Seção 4\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\net6.0\ref\RectangleArea.dll
